@@ -1,7 +1,7 @@
-# Data-Science-Web-App-with-Streamlit-and-Python
+## Data-Science-Web-App-with-Streamlit-and-Python
 It was a guided project!
 
-### How to run
+## How to run
 Run using command
-# streamlit run app.py 
+## streamlit run app.py 
 app.py is the file name
